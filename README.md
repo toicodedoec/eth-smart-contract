@@ -15,12 +15,12 @@ Before starting the project, we have to prepare platforms and dependencies as th
 
 ### Setup the project
 
-As you know, Ethereum Smart Contract use Solidity programing language. So we have to install the compiler called Solc.
+As you know, Ethereum Smart Contract use Solidity programing language, so we have to install the compiler called Solc:
 ```
 $ npm install -g solc
 ```
 
-We need a Ethereum Node for the deployment and test. So we can use TestRPC to emulate Ethereum.
+We need a Ethereum Node for the deployment and test, so we can use TestRPC to emulate Ethereum:
 ```
 $ npm install -g ethereumjs-testrpc
 ```
